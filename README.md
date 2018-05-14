@@ -1,2 +1,2 @@
 # magento
-It is development file content.
+It is master file content.
