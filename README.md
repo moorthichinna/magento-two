@@ -1,2 +1,2 @@
 # magento
-It is test repository of magento 2
+now this file is changed for merging with master.
