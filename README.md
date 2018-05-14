@@ -1,2 +1,2 @@
 # magento
-It is stagigng file content.
+It is development file content.
