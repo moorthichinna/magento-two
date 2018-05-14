@@ -1,2 +1,2 @@
 # magento
-It is master file content.
+It is stagigng file content.
