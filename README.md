@@ -1,2 +1,2 @@
 # magento
-now this file is changed for merging with master.
+now this file is changed for merging with staging server.
