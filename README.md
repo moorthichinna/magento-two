@@ -1,2 +1,3 @@
 # magento
-It is master file content.
+
+It is edited from local PC.
